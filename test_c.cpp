@@ -1,8 +1,8 @@
 
 namespace bobtest {
 
-    //% shim=bobtest::TestFunction_C
-    void TestFunction_C() {
+    //% shim=bobtest::TTT_C
+    void TTT_C() {
         // 发送10个1000Hz脉冲 (每个脉冲周期1ms)  
         for(int i = 0; i < 10; i++) {
             // 高电平阶段
