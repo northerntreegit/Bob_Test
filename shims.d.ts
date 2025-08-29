@@ -1,4 +1,4 @@
 declare namespace bobtest {
-    //% shim=bobtest::TestFunction_C
-    function TestFunction_C(): void;
+    //% shim=bobtest::TTT_C
+    function TTT_C(): void;
 }
