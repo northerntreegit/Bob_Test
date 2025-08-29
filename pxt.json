@@ -1,0 +1,22 @@
+{
+    "name": "BobTestExtend",
+    "description": "Bob use to test",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "test_c.cpp",
+        "test_ts.ts",
+        "shims.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "0.0.0",
+        "pxt": "0.0.0"
+    },
+    "icon": "https://cdn.makecode.com/blob/26cabdf37f87d5699a0503bcb1fd66a149b7e685/static/libs/microphone.png"
+}
