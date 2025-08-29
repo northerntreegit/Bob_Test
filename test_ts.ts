@@ -5,4 +5,10 @@ namespace bobtest {
     export function testFunction_TS(): void {
     }
 
+
+    //% block="Test 2"
+    //% weight=100
+    export function testFunction_TS2(): void {
+    }
+
 }
