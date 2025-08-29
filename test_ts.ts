@@ -9,7 +9,7 @@ namespace bobtest {
     //% block="Test 2"
     //% weight=90
     export function testFunction_TS2(): void {
-        droneRC.TestFunction_C();
+        droneRC.TTT_C();
     }
 
 }
