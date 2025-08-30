@@ -9,7 +9,7 @@ namespace bobtest {
     //% block="Test 2"
     //% weight=90
     export function testFunction_TS2(): void {
-        bobTest.TTT_C();
+        bobtest.TTT_C();
     }
 
 }
