@@ -1,3 +1,11 @@
+#include "pxt.h"
+
+namespace pins {
+    void digitalWritePin(int name, int value);
+}
+namespace pxt {
+    void sleep_us(uint64_t us);
+}
 
 namespace bobtest {
 
@@ -14,3 +22,4 @@ namespace bobtest {
             pxt::sleep_us(500); // 500微秒低电平，完成1ms周期
         }
     }
+} 

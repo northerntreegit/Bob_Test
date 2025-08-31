@@ -3,6 +3,8 @@ namespace bobtest {
     //% block="Test a"
     //% weight=100
     export function testFunction_TS(): void {
+        //显示一个红心
+        basic.showIcon(IconNames.Heart);
     }
 
 
